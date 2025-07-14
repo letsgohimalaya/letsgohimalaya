@@ -13,3 +13,6 @@ navigation:
 # About Content Version 3
 
 Now this is certainly About us page
+
+::home-feature
+::
