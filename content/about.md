@@ -14,14 +14,5 @@ navigation:
 
 Now this is certainly About us page
 
-## ::home-feature
-
-## icon: i-mdi-vuejs
-
-#title
-Embedded Vue componentssdfsf
-#description
-Edit slots and props inside the Notion-like editor.
+::home-feature
 ::
-
-Hello there
