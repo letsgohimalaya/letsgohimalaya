@@ -12,7 +12,15 @@ navigation:
 
 # About Content Version 3
 
-Now this is certainly About us page
+Now this is certainly About us pagess
 
 ::home-feature
+---
+icon: i-material-symbols-account-child-outline-rounded
+---
+#title
+This is title slotffs
+
+#description
+This si Descriptio slotfsss
 ::
