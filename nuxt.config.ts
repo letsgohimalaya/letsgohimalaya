@@ -1,5 +1,9 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+  app: {
+    baseURL: "/letsgohimalaya/", // important if using GitHub Pages
+  },
+  ssr: false,
   nitro: {
     preset: "github_pages", // or 'static'
   },
