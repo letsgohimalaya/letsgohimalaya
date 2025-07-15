@@ -5,10 +5,10 @@
         </div>
         <div class="flex flex-col">
             <h3 class="font-semibold">
-                <ContentSlot :use="$slots.title" unwrap />
+                <slot name="title" />
             </h3>
             <span>
-                <ContentSlot :use="$slots.description" unwrap />
+                <slot name="description" />
             </span>
         </div>
     </div>
