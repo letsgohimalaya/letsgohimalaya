@@ -16,8 +16,7 @@ export default defineNuxtConfig({
   compatibilityDate: "2024-04-03",
   content: {
     preview: {
-      // force module initialization on dev env
-      dev: true,
+      api: "https://api.nuxt.studio",
     },
   },
 });
